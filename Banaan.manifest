@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"id": "7c3f2a1e-5b8d-4e6f-9a2b-b4a4a0000001",
+	"author": "Harm",
+	"description": {
+		"": "Plaatst een banaan op ware grootte (voor schaal) in je ontwerp."
+	},
+	"version": "1.0.0",
+	"runOnStartup": true,
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
